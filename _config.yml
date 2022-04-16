@@ -1,0 +1,15 @@
+title: Nashira Deer
+tagline: About me and my work
+description: Nashira Deer is a software developer from Brazil that loves your work and your creations.
+footer: The favicon used in this website belongs to Nashira Deer. All rights reserved.
+theme-color: '#a914ee'
+google-analytics: 
+logomark:
+navbar:
+  - name: Home
+    url: /
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+remote_theme: NashiraDeer/Jekyll-Deerlin@v1.0.0
