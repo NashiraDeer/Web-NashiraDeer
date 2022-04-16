@@ -1,7 +1,5 @@
 # Nashira Deer // Home
 
-## About me
-
 Hello, my name is Deyvid da Silva Costa, I have borne in Brazil in the year of 2005 and since a early age I have had an interest in the computer area. With 12 years old, I have changed the operating system of my mother's notebook from 32-bit to a 64-bit version and don't have take too long for me start learning programming, begging in 2019, with only an Android smartphone and NodeJS on Termux. Since then, I've always tried to learn more and keeping always improving my skills.
 
 ## About my work
